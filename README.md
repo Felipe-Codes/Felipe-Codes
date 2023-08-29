@@ -3,7 +3,7 @@
 Eu sou Felipe Vieira Mariano, sou programador em python e javascript, estou atualmente aprendendo html e css. Se você chegou aqui para me contratar ou me pedir um código pode me contactar em uma das redes aqui em baixo.
 
 <div>
-<a href="https://beacons.ai/rafaballerini
+<a href="https://beacons.ai/Felipe-Codes
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username-rafaballerini&show_icons-true&theme-dracula&include_all_commits-true&count_private-true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username-rafaballerini&layout-compact&langs_count-16&theme-dracula%22/%3E
 </div>
